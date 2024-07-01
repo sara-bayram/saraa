@@ -1,0 +1,125 @@
+body{
+    background-color: #F1F8E8 !important;
+}
+.navbar{
+    background-color: #D8EFD3;
+}
+.pro{
+    text-decoration: underline;
+}
+.icon-square{
+    width: 3rem;
+  height: 3rem;
+  border-radius: 0.75rem;
+  color: #95D2B3 !important;
+}
+.btn{
+    color: #F1F8E8 !important;
+    background-color: #55AD9B !important;
+    border-color: #55AD9B !important;
+    
+}
+.email-me{
+    color:#F1F8E8 !important;
+    font-size: larger;
+}
+a {
+    text-decoration: none !important;
+}
+a:hover {
+   background-color: #95D2B3 !important;
+   border-color: #95D2B3 !important;
+    border-radius: 1rem;
+}
+.about{
+    font-weight: bold !important;
+}
+.home{
+    font-weight: bold !important;
+}
+.resume{
+    font-weight: bold !important;
+}
+.project{
+    font-weight: bold !important;   
+}
+.checkmate{
+    border-bottom: 5px #55AD9B solid !important;
+}
+.btn a {
+    color: #F1F8E8;
+    padding: 0.375rem 0.75rem; 
+}
+
+
+.resume-section {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px #95D2B3;
+}
+body {
+    background-color: #f8f9fa;
+}
+.resume-header {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.resume-header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.resume-header p {
+    margin: 0;
+    font-size: 1.2rem;
+    color: #6c757d;
+}
+.resume-section {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.section-title {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    font-weight: bold;
+    border-bottom: 2px solid #95D2B3;
+    display: inline-block;
+}
+
+.education-item {
+    margin-bottom: 15px;
+}
+.item-title {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.item-subtitle {
+    font-style: italic;
+    color: #6c757d;
+}
+ul {
+    padding-left: 20px;
+}
+
+.education-item {
+    margin-bottom: 15px;
+}
+.item-title {
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+.item-subtitle {
+    font-style: italic;
+    color: #6c757d;
+}
+.skills {
+    padding-left: 20px;
+}
+.skills li{
+    list-style-type: disc;
+}
